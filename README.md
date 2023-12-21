@@ -14,3 +14,42 @@ This notebook contains tasks that were assigned to me throughout the semester:
     Performing Matrix Multiplication in Python using two different approaches.
 
 ## [Deutsch's Algorithm notebook](/project.ipynb)
+
+This is a notebook containing my research on Deutsch's Algorithm, where I give an introduction to Quantum Computing, explain Deutsch's Algorithm and implement the algorithm in Qiskit.
+
+## Running the Notebooks
+
+In order to run the notebooks in this repository, firstly close the repository onto your computer as follows:
+
+```bash
+    git clone https://github.com/JakubP56/EmergingTechnologies
+```
+
+Next, Install the required packages. While creating this notebook, I used Anaconda as my package manager. If not already installed,
+you can download Anaconda from https://www.anaconda.com/download.
+
+To install the Qiskit package:
+
+```bash
+    pip install qiskit
+```
+To install the Numpy package:
+
+```bash
+    pip install numpy
+```
+To install Jupyter:
+
+```bash
+    conda install -c anaconda jupyter
+```    
+Now that the necessary software is installed, navigate to the repository
+
+```bash 
+    cd EmergingTechnologies
+```  
+From here, you can finally run the Jupyter Notebook as follows:
+
+```bash 
+    jupyter notebook
+```
