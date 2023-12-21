@@ -28,6 +28,12 @@ In order to run the notebooks in this repository, firstly close the repository o
 Next, Install the required packages. While creating this notebook, I used Anaconda as my package manager. If not already installed,
 you can download Anaconda from https://www.anaconda.com/download.
 
+To install Jupyter:
+
+```bash
+    conda install -c anaconda jupyter
+```
+
 To install the Qiskit package:
 
 ```bash
@@ -38,11 +44,7 @@ To install the Numpy package:
 ```bash
     pip install numpy
 ```
-To install Jupyter:
-
-```bash
-    conda install -c anaconda jupyter
-```    
+    
 Now that the necessary software is installed, navigate to the repository
 
 ```bash 
