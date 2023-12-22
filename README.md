@@ -26,11 +26,11 @@ This is a notebook containing my research on Deutsch's Algorithm, where I give a
 - ### Implementing Deutsch's Algorithm in Qiskit
     Implementation of the algorithm in Qiskit, written in Python.
 - ### Conclusion
-    What we can see from the algorithm
+    What we can see from the algorithm.
 
 ## Running the Notebooks
 
-In order to run the notebooks in this repository, firstly close the repository onto your computer as follows:
+In order to run the notebooks in this repository, firstly clone the repository onto your computer as follows:
 
 ```bash
     git clone https://github.com/JakubP56/EmergingTechnologies
