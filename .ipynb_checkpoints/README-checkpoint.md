@@ -15,18 +15,13 @@ This notebook contains tasks that were assigned to me throughout the semester:
 
 ## [Deutsch's Algorithm notebook](/project.ipynb)
 
-This is a notebook containing my research on Deutsch's Algorithm, where I give an introduction to Quantum Computing, explain Deutsch's Algorithm and implement the algorithm in Qiskit. These are the main components of this notebook.
+This is a notebook containing my research on Deutsch's Algorithm, where I give an introduction to Quantum Computing, explain Deutsch's Algorithm and implement the algorithm in Qiskit.
 
 - ### Introduction to Quantum Computing
-    Key difference between classical and quantum computing.
 - ### Key Quantum Concepts
-    Qubits, Superposition, Hammard Gates.  
 - ### Deutsch's Algorithm: The Oracle Problem
-    Constant or Balanced function?
 - ### Implementing Deutsch's Algorithm in Qiskit
-    Implementation of the algorithm in Qiskit, written in Python.
 - ### Conclusion
-    What we can see from the algorithm
 
 ## Running the Notebooks
 
